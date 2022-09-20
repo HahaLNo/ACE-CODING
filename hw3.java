@@ -6,9 +6,9 @@ public class hw3 {
     
         int age = 17;
         int dogAge = 3;
-        System.out.println(age);
-        System.out.println(dogAge);
-        System.out.println(7 * 2);
+        System.out.println("my age is"+age);
+        System.out.println("my dogs age is"+dogAge);
+        System.out.println("My dog in dog years age is"+7 * 2);
     }
     
 }
