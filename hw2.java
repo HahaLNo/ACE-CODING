@@ -6,3 +6,4 @@ public class hw2 {
 
     }
 }
+ModelDisplay.java
