@@ -64,6 +64,8 @@ public class PetTesterClass
    // main method for testing
    public static void main(String[] args)
    {
+
+    Pet Pet1 = new Pet(initName: "MaxyPoo", initAge: 69, initWeight: 179, initAnimal: "dog", initBreed: "Golden retriever");
       // Create 3 Pet objects and test all your methods
 
    }
