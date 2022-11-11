@@ -36,6 +36,23 @@ public class Pet
     public String getAnimal();
     public String getBreed();
 
+    public String getName(){
+        return name;
+    }
+    public int getAge(){
+        return age;
+    }
+    
+    public double getWeight(){
+        return weight;
+    }
+
+    public String getAnimal(){
+        return animal;
+    }
+    public String getBreed(){
+        return breed;
+    }
    // keep track of the name, age, weight, type of animal, and breed of the pet
 
    // Write 2 constructors and accessor (get) methods. Use good commenting.
