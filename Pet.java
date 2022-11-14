@@ -57,6 +57,22 @@ public class Pet
     public void setName(String newName){
         name = newName;
     }
+
+    public void setAge(String newAge){
+        age = newAge;
+    }
+
+    public void setWeight(double newWeight){
+        weight = newWeight
+    }
+
+    public void setAnimal(String newAnimal){
+        animal = newAnimal
+    }
+
+    public void setBreed(String newBreed){
+        breed = newBreed
+    }
    // keep track of the name, age, weight, type of animal, and breed of the pet
 
    // Write 2 constructors and accessor (get) methods. Use good commenting.
@@ -72,6 +88,11 @@ public class PetTesterClass
     Pet Pet1 = new Pet(initName: "MaxyPoo", initAge: 69, initWeight: 179, initAnimal: "dog", initBreed: "Golden retriever");
       // Create 3 Pet objects and test all your methods
 
+      Pet1.getName()
+      System.out.print(Pet1.getAge)()
+      Pet1.getWeight()
+      Pet1.getAnimal()
+      Pet1.getBreed()
    }
 }
 
