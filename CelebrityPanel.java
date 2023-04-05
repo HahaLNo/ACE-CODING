@@ -1,8 +1,10 @@
-public import javax.swing.*;
-import java.awt.event.ActionListener;
 import java.awt.Color;
 import java.awt.Font;
-import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import javax.swing.JButton;
+import javax.swing.JLabel;
+import javax.swing.JTextField;
+import javax.swing.SpringLayout;
 
 
 public class CelebrityPanel extends JPanel
@@ -307,7 +309,4 @@ public class CelebrityPanel extends JPanel
 
 	}
 
-}
- {
-    
 }

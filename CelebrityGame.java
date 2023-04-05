@@ -15,7 +15,7 @@ public class CelebrityGame {
       /**
          * A reference to a Celebrity
          */
-        private Celebrity gamCelebrity; 
+        private Celebrity gameCelebrity; 
 
         
         /**
